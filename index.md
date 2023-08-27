@@ -1,5 +1,6 @@
 # Joon Hong Park's First CS193 Homework
 - Good opportunity to learn programming tools
+- Nice TAs
 
 ## Welcome to GitHub Pages
 
